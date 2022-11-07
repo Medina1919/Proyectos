@@ -1,0 +1,208 @@
+body{
+    background-image: url(img/fondo.jpg)
+}
+#principal{
+    display: block;
+    width: 500px;
+    margin: 50px auto;
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #999999;
+    background: black;
+    color: white;
+    
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    
+    -moz-box-shadow: rgb(150,150,150) 5px 5px;
+    -webkit-box-shadow: rgb(150,150,150) 5px 5px;
+    box-shadow: rgb(150,150,150) 5px 5px;
+}
+#titulo{
+    font: bold 36px MiNuevaFuente, verdana, sans-serif;
+    text-shadow: rgba(0,0,0,0,5) 3px 3px 5px;
+    color: white(100%,50%,0.5);
+}
+@font-face{
+    font-family: 'MiNuevaFuente';
+    src: url('font.ttf');
+}
+    
+header nav {
+    width: 35%;
+    background: black;
+    margin: 1% auto;
+    overflow: auto;
+}
+
+header nav ul {
+    list-style: none;
+}
+header nav ul li{
+    float: left;
+}
+header nav ul li a{
+    padding: 10px 20px;
+    display:block;
+    color:#fff ;
+    text-decoration: none;
+    
+}
+#TECLADO{
+    display: block;
+    width: 80%;
+    margin: 50px auto;
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #999999;
+    background: black;
+    color: white;
+    
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    
+    -moz-box-shadow: rgb(150,150,150) 5px 5px;
+    -webkit-box-shadow: rgb(150,150,150) 5px 5px;
+    box-shadow: rgb(150,150,150) 5px 5px;
+}
+#subtitulo{
+    font: bold 36px MiNuevaFuente, verdana, sans-serif;
+    text-shadow: rgba(0,0,0,0,5) 3px 3px 5px;
+    color: white(100%,50%,0.5);
+ }  
+#tec1{
+    color:white;
+}
+#TECLADO2{
+    display: block;
+    width: 80%;
+    margin: 50px auto;
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #999999;
+    background: black;
+    color: white;
+    
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    
+    -moz-box-shadow: rgb(150,150,150) 5px 5px;
+    -webkit-box-shadow: rgb(150,150,150) 5px 5px;
+    box-shadow: rgb(150,150,150) 5px 5px;
+}
+#subtitulo2{
+    font: bold 36px MiNuevaFuente, verdana, sans-serif;
+    text-shadow: rgba(0,0,0,0,5) 3px 3px 5px;
+    color: white(100%,50%,0.5);
+ }  
+#tec2{
+    color:white;
+}
+
+#MOUSE1{
+    display: block;
+    width: 80%;
+    margin: 50px auto;
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #999999;
+    background: black;
+    color: white;
+    
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    
+    -moz-box-shadow: rgb(150,150,150) 5px 5px;
+    -webkit-box-shadow: rgb(150,150,150) 5px 5px;
+    box-shadow: rgb(150,150,150) 5px 5px;
+}
+#subtitulo3{
+    font: bold 36px MiNuevaFuente, verdana, sans-serif;
+    text-shadow: rgba(0,0,0,0,5) 3px 3px 5px;
+    color: white(100%,50%,0.5);
+ }  
+#mouse1{
+    color:white;
+}
+#MOUSE2{
+    display: block;
+    width: 80%;
+    margin: 50px auto;
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #999999;
+    background: black;
+    color: white;
+    
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    
+    -moz-box-shadow: rgb(150,150,150) 5px 5px;
+    -webkit-box-shadow: rgb(150,150,150) 5px 5px;
+    box-shadow: rgb(150,150,150) 5px 5px;
+}
+#subtitulo4{
+    font: bold 36px MiNuevaFuente, verdana, sans-serif;
+    text-shadow: rgba(0,0,0,0,5) 3px 3px 5px;
+    color: white(100%,50%,0.5);
+ }  
+#mouse2{
+    color:white;
+}
+#AUDIFONOS1{
+    display: block;
+    width: 80%;
+    margin: 50px auto;
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #999999;
+    background: black;
+    color: white;
+    
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    
+    -moz-box-shadow: rgb(150,150,150) 5px 5px;
+    -webkit-box-shadow: rgb(150,150,150) 5px 5px;
+    box-shadow: rgb(150,150,150) 5px 5px;
+}
+#subtitulo5{
+    font: bold 36px MiNuevaFuente, verdana, sans-serif;
+    text-shadow: rgba(0,0,0,0,5) 3px 3px 5px;
+    color: white(100%,50%,0.5);
+ }  
+#audifonos1{
+    color:white;
+}
+#AUDIFONOS2{
+    display: block;
+    width: 80%;
+    margin: 50px auto;
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #999999;
+    background: black;
+    color: white;
+    
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    
+    -moz-box-shadow: rgb(150,150,150) 5px 5px;
+    -webkit-box-shadow: rgb(150,150,150) 5px 5px;
+    box-shadow: rgb(150,150,150) 5px 5px;
+}
+#subtitulo6{
+    font: bold 36px MiNuevaFuente, verdana, sans-serif;
+    text-shadow: rgba(0,0,0,0,5) 3px 3px 5px;
+    color: white(100%,50%,0.5);
+ }  
+#audifonos2{
+    color:white;
+}
